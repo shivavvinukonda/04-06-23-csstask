@@ -1,0 +1,51 @@
+h1{font-size: 70px;
+    padding-right: 50px;
+    padding-right: 200px;
+    color:blue;
+}
+h2{
+    font-size: 40px;
+    color: brown;
+}
+#intro {
+    background-color: aqua;
+    
+    opacity: 200%;
+    color: green;
+    text-align: left;
+    padding: 2%;
+}
+#pers{
+    background-color: cornsilk;
+}
+#pers table{
+            border: 1px solid;
+            text-align: left;
+            margin-left: 20%;
+            border-spacing: 50px 50px;
+            padding: 10px;
+            color: blue;
+}
+#awar{
+    background-image:  ;
+    object-position:center;
+    background-color:cornflowerblue;
+}
+#year{
+    background-color: cyan;
+}
+#bat{
+    background-color:lightcyan;
+}
+#bat table{
+            border: 1px solid;
+            text-align: left;
+            margin-left: 10%;
+            border-spacing: 40px 40px;
+            padding: 10px;
+            color: green;
+}
+img{
+    border: 1px solid 
+
+}
